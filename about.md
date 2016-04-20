@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是xxxxxxxx。
+我是<b>蒋依言</b>，我是一个安静的美女子！
 
 现在研习 **认知写作学** 。
 
